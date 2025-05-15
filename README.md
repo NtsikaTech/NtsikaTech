@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there, I'm Ntsika 👋
 
-<!--
-**NtsikaTech/NtsikaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about solving problems with code, automation, and a bit of backend magic  
+🔐 Exploring the world of Cybersecurity | Python, Django, APIs | Web & App Security  
+🎯 Self-taught developer building hands-on projects while leveling up every day
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- 🎫 **NexusByte** – A Python-based client ticketing system with GUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools I Use
+`Python` | `Django` | `HTML` | `CSS` | `JSON` | `Tkinter` | `VS Code` | `Git`
+
+## 🌱 Currently Learning
+- Cybersecurity fundamentals
+- Security automation with Python
+- MongoDB & MySQL for full-stack dev
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/your-link)
+- 🌐 Portfolio coming soon — working on something sleek!
+
+> *“Tech is my canvas. I build what I imagine.”*
