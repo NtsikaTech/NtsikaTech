@@ -17,6 +17,6 @@
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 🔗 [Visit My Portfolio](https://portfolio.ntsikatech.co.za)
+- [Visit My Portfolio](https://portfolio.ntsikatech.co.za)
 
 > *“Tech is my canvas. I build what I imagine.”*
