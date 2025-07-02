@@ -5,7 +5,9 @@
 🎯 Self-taught developer building hands-on projects while leveling up every day
 
 ## 🔭 What I'm Currently Working On
-- 🎫 **NexusByte** – A Python-based client ticketing system with GUI
+🎫 NexusByte Ticketing System – Efficient client issue tracking and management
+📦 NexusByte Order Management System – Streamlining orders with Python
+💻 CollabCode Board – A collaborative coding platform for developers
 
 ## 🛠️ Languages & Tools I Use
 `Python` | `Django` | `HTML` | `CSS` | `JSON` | `Tkinter` | `VS Code` | `Git`
