@@ -1,7 +1,7 @@
 # Hey there, I'm Ntsika 👋
 
 💡 Passionate about solving problems with code, automation, and a bit of backend magic  
-🔐 Exploring the world of Cybersecurity | Python, Django, APIs | Web & App Security  
+🔐 Exploring the world of Web Development | Python, Typescript, APIs | Web & App Security  
 🎯 Self-taught developer building hands-on projects while leveling up every day
 
 ## 🔭 What I'm Currently Working On
