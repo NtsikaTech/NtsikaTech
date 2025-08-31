@@ -10,12 +10,12 @@
 💻 CollabCode Board – A collaborative coding platform for developers
 
 ## 🛠️ Languages & Tools I Use
-`Python` | `Django` | `HTML` | `CSS` | `JSON` | `Tkinter` | `VS Code` | `Git`
+`Python` | `Typescript` | `HTML` | `CSS` | `JSON` | `Tkinter` | `Docker` | `MySQL`| `Postgres`
 
 ## 🌱 Currently Learning
+- BSc- Information Science
 - Cybersecurity fundamentals
-- Security automation with Python
-- MongoDB & MySQL for full-stack dev
+- Postgres & MySQL for full-stack dev
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/your-link)
