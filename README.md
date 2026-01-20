@@ -23,7 +23,7 @@
 
 ## 📫 Let's Connect
 
-* [LinkedIn](https://linkedin.com/in/your-link)
+* [LinkedIn](www.linkedin.com/in/ntsika-xhali-611080281)
 * [Visit My Portfolio](https://portfolio.ntsikatech.co.za)
 
 > *“Technology is my workspace — I build, secure, and improve what I create.”*
