@@ -1,24 +1,31 @@
 # Hey there, I'm Ntsika 👋
 
-💡 Passionate about solving problems with code, automation, and a bit of backend magic  
-🔐 Exploring the world of Web Development | Python, Typescript, APIs | Web & App Security  
-🎯 Self-taught developer building hands-on projects while leveling up every day
+💡 Passionate about building practical solutions through backend and frontend development
+🔐 Exploring **Cybersecurity**, Web & App Security alongside **Python, TypeScript, APIs**
+🎯 Hands-on, self-driven developer learning by building real-world projects
 
 ## 🔭 What I'm Currently Working On
-🎫 NexusByte Ticketing System – Efficient client issue tracking and management
-📦 NexusByte Order Management System – Streamlining orders with Python
-💻 CollabCode Board – A collaborative coding platform for developers
+
+🎫 **NexusByte Ticketing System** – Efficient client issue tracking and management
+📦 **NexusByte Order Management System** – Streamlined order workflows and data handling
+💻 **CollabCode Board** – A collaborative coding and development platform
 
 ## 🛠️ Languages & Tools I Use
-`Python` | `Typescript` | `HTML` | `CSS` | `JSON` | `Tkinter` | `Docker` | `MySQL`| `Postgres`
+
+`Python` | `TypeScript` | `JavaScript` | `React` | `Next.js` | `HTML` | `CSS` | `JSON`
+`Tkinter` | `Node.js` | `Docker` | `MySQL` | `PostgreSQL`
 
 ## 🌱 Currently Learning
-- BSc- Information Science
-- Cybersecurity fundamentals
-- Postgres & MySQL for full-stack dev
+
+* BSc – Information Science
+* Cybersecurity fundamentals (web, application, and system security)
+* Secure backend development with databases and APIs
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Visit My Portfolio](https://portfolio.ntsikatech.co.za)
 
-> *“Tech is my canvas. I build what I imagine.”*
+* [LinkedIn](https://linkedin.com/in/your-link)
+* [Visit My Portfolio](https://portfolio.ntsikatech.co.za)
+
+> *“Technology is my workspace — I build, secure, and improve what I create.”*
+
+
