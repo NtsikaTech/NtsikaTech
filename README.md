@@ -4,20 +4,19 @@ Cybersecurity professional focused on **SOC engineering, cloud security, and thr
 
 ---
 
-## 🔭 Current Projects
+## 🛡️ Featured Project: Microsoft Sentinel SOC Lab (Azure)
 
-**Microsoft Sentinel SOC Lab (Azure)**
-End-to-end SIEM environment featuring Azure Arc-enabled Linux telemetry ingestion, Syslog collection, and KQL-based threat hunting mapped to MITRE ATT&CK.
+End-to-end SIEM environment built in Azure, focused on real-world security telemetry and detection engineering.
 
-**NexusByte Ticketing System**
-Internal operations platform built to explore secure backend design, data handling, and access control patterns.
-
-**CollabCode Board**
-Collaborative platform exploring authentication, role-based access control, and real-time interaction.
+- Azure Arc-enabled Linux (Ubuntu) machine onboarded
+- Azure Monitor Agent (AMA) configured for log collection
+- Syslog ingestion pipeline into Microsoft Sentinel
+- KQL-based threat hunting and log analysis
+- MITRE ATT&CK mapping for adversary behavior analysis
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
 **Security & SOC**
 `Microsoft Sentinel` `Azure Arc` `Azure Monitor Agent` `Syslog` `MITRE ATT&CK` `KQL`
@@ -30,12 +29,12 @@ Collaborative platform exploring authentication, role-based access control, and 
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Focus Areas
 
 - SOC engineering and detection rule development (KQL)
 - Cloud security architecture (Azure security services)
 - Threat hunting and incident investigation
-- Secure system design using APIs and backend logic
+- Secure backend and API design principles
 - BSc Information Science — UNISA (in progress)
 
 ---
@@ -47,4 +46,4 @@ Collaborative platform exploring authentication, role-based access control, and 
 
 ---
 
-*"I don't just build systems — I learn how to monitor, defend, and improve them."*
+*"I focus on building systems I can also monitor, defend, and analyze."*
