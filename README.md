@@ -1,10 +1,10 @@
-# Hi, I'm Ntsika 👋
+# Hi, I'm Ntsika 
 
 Cybersecurity professional focused on **SOC engineering, cloud security, and threat detection**, with a development background (Python, APIs, automation) that I apply to building and securing defensive systems.
 
 ---
 
-## 🛡️ Featured Project: Microsoft Sentinel SOC Lab (Azure)
+##  Featured Project: Microsoft Sentinel SOC Lab (Azure)
 
 End-to-end SIEM environment built in Azure, focused on real-world security telemetry and detection engineering.
 
@@ -16,7 +16,7 @@ End-to-end SIEM environment built in Azure, focused on real-world security telem
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Security & SOC**
 `Microsoft Sentinel` `Azure Arc` `Azure Monitor Agent` `Syslog` `MITRE ATT&CK` `KQL`
@@ -29,7 +29,7 @@ End-to-end SIEM environment built in Azure, focused on real-world security telem
 
 ---
 
-## 🌱 Focus Areas
+##  Focus Areas
 
 - SOC engineering and detection rule development (KQL)
 - Cloud security architecture (Azure security services)
@@ -39,7 +39,7 @@ End-to-end SIEM environment built in Azure, focused on real-world security telem
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntsika-xhali-611080281/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.ntsikatech.co.za)
