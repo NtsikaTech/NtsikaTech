@@ -22,7 +22,7 @@ End-to-end SIEM environment built in Azure, focused on real-world security telem
 `Microsoft Sentinel` `Azure Arc` `Azure Monitor Agent` `Syslog` `MITRE ATT&CK` `KQL`
 
 **Development & Scripting**
-`Python` `JavaScript` `TypeScript` `Node.js` `API Development`
+`Python` `API Development`
 
 **Infrastructure & Databases**
 `Azure` `Docker` `MySQL` `PostgreSQL`
